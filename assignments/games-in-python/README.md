@@ -1,10 +1,10 @@
 # 📘 Tarefa: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique manipulação de strings, loops, condicionais e entrada de dados implementando um jogo clássico da Forca em Python.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Construir o Jogo da Forca
 
